@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hello World 👋, I'm Thanh Tu
+<h3 align="center">A passionate developer from Vietnam </h3>
+- ✍ I'm a student of: [FPT University](https://daihoc.fpt.edu.vn/) (FPTU).
 <!--
 **nguyenthanhthanhtu229Vn/nguyenthanhthanhtu229Vn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
