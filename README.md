@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Thanh Tu</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TuNguyen229VN" alt="TuNguyen229VN" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nguyenthanhthanhtu229Vn" alt="nguyenthanhthanhtu229Vn" /> </p>
 
 - ✍ I'm a student of: [FPT University](https://daihoc.fpt.edu.vn/) (FPTU).
 
