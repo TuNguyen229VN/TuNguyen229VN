@@ -39,6 +39,7 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNguyen229VN&layout=compact)](https://github.com/TuNguyen229VN)
+![TuNguyen229VN's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuNguyen229VN&show_icons=true&theme=radical)
 
  <p align="center"> 
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
