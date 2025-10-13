@@ -21,10 +21,12 @@
 ## Languages and Tools:
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
+  <div align="left">
     <a href="https://github.com/TuNguyen229VN">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuNguyen229VN&layout=compact" alt="Top Languages" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuNguyen229VN&layout=compact" alt="Top Languages" width="50%">
     </a>
-    <p align="center">
+    </div>
+    <p align="right" width="50%">
      <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></code>
      <code>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></code>
      <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code>
