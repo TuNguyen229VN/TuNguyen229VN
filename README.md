@@ -21,13 +21,12 @@
 ## Languages and Tools:
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
-  <div align="left">
+  <span align="left">
     <a href="https://github.com/TuNguyen229VN">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuNguyen229VN&layout=compact" alt="Top Languages">
     </a>
-  </div>
-  <div align="right">
-    <p style="margin: 0; display: flex; flex-wrap: wrap; gap: 8px;">
+  </span>
+    <span align="right">
       <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
       <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
@@ -43,8 +42,7 @@
       <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" width="40" height="40"/>
-    </p>
-  </div>
+    </span>
 </div>
 
  <p align="center"> 
