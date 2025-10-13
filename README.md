@@ -37,7 +37,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" width="40" height="40"/>
 </p>
-<p> [![TuNguyen229VN's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNguyen229VN&layout=compact)](https://github.com/TuNguyen229VN) </p>
+[![TuNguyen229VN's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNguyen229VN&layout=compact)](https://github.com/TuNguyen229VN) 
  <p align="center"> 
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
  </p>
