@@ -19,14 +19,14 @@
 </p>
 
 ## Languages and Tools:
+
 <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
   <div>
     <a href="https://github.com/TuNguyen229VN">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuNguyen229VN&layout=compact" alt="Top Languages">
     </a>
   </div>
-</div>
-<div>
+  <div>
     <p style="margin: 0; display: flex; flex-wrap: wrap; gap: 8px;">
       <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
       <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
@@ -45,8 +45,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" width="40" height="40"/>
     </p>
   </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNguyen229VN&layout=compact)](https://github.com/TuNguyen229VN)
+</div>
 
  <p align="center"> 
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
