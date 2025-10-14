@@ -22,7 +22,9 @@
 
 <table>
   <tr>
-          [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNguyen229VN&layout=compact)](https://github.com/TuNguyen229VN)
+     <td width="50%">
+       [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNguyen229VN%26layout=compact)](https://github.com/TuNguyen229VN)
+     </td>
     <td  width="50%">
       <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></code>
        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></code>
@@ -46,7 +48,7 @@
  <p align="center"> 
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
  </p>
- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNguyen229VN&layout=compact)](https://github.com/TuNguyen229VN)
+
 
 
 
