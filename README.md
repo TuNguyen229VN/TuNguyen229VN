@@ -46,7 +46,8 @@
  <p align="center"> 
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
  </p>
-       [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNguyen229VN&layout=compact)](https://github.com/TuNguyen229VN)
+ [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TuNguyen229VN&layout=compact)](https://github.com/TuNguyen229VN)
+
 
 
 
