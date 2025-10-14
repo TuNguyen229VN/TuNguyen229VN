@@ -43,7 +43,8 @@
       <code><img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" width="40" height="40"/></code>
       <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40"/
       </code>
-      <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" width="40" height="40"/>
+      <code>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" width="40" height="40"/>
       </code>
     </td>
   </tr>
