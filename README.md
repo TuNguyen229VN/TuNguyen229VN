@@ -22,9 +22,9 @@
 
 <table>
   <tr>
-    <td width="50%" height="100%">
+    <td width="50%" >
       <a href="https://github.com/TuNguyen229VN">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuNguyen229VN&layout=compact" alt="Top Languages" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuNguyen229VN&layout=compact" alt="Top Languages" width="100%" height="100%"/>
       </a>
     </td>
     <td  width="50%">
