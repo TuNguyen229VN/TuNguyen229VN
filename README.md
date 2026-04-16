@@ -69,9 +69,15 @@
 
 ## <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
 
+<p align="center">  
 <a href="https://github.com/TuNguyen229VN">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuNguyen229VN&layout=compact" alt="Top Languages" width="100%"/>
+      <img
+    alt="TuNguyen229VN Top Languages"
+    src="https://github-readme-stats-seven-xi-86.vercel.app/api/top-langs/?username=TuNguyen229VN&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,Roff"
+    height="192px"
+  />
       </a>
+ </p>     
 &nbsp;  
  <p align="center"> 
   <img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="dev" width="100%"/>
