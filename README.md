@@ -1,14 +1,11 @@
 <h1 align="center">Hello World  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Thanh Tu</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <p align="center">
-  <a href="https://github.com/TuNguyen229VN">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&pause=1000&width=550&lines=Welcome+to+my+profile;I'm+a+front-end+developer+based+in+Vietnam">
+   <a href="https://github.com/TuNguyen229VN">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&pause=1000&width=550&lines=Front-end developer based in Vietnam;FPT University graduate">
   </a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nguyenthanhthanhtu229Vn" alt="nguyenthanhthanhtu229Vn" /> </p>
-
-- ✍ I'm a student of: [FPT University](https://daihoc.fpt.edu.vn/) (FPTU).
-- 💼 Internship at: [FPT Software](https://fptsoftware.com/) (FSoft).
 
 ## <img src="https://media.tenor.com/QYcfJTtQfo8AAAAM/deku.gif" width ="50px"> How to reach me:
 
