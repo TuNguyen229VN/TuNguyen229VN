@@ -64,7 +64,7 @@
     <a href="#"><img alt="Intelleji" src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge"></a>
 </p>
 
-## <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
+## <picture> <img src = "https://i.pinimg.com/originals/e7/c0/5e/e7c05ea75a71182f966f3d9a5aa1574d.gif" width = 50px> </picture> Github Stats
 
 <p align="center">  
 <a href="https://github.com/TuNguyen229VN">
