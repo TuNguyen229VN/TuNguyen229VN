@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&pause=1000&width=550&lines=Front-end+developer+based+in+Vietnam;FPT+University+graduate">
   </a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nguyenthanhthanhtu229Vn" alt="nguyenthanhthanhtu229Vn" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TuNguyen229VN" alt="TuNguyen229VN" /> </p>
 
 ## <img src="https://media.tenor.com/QYcfJTtQfo8AAAAM/deku.gif" width ="50px"> How to reach me:
 
